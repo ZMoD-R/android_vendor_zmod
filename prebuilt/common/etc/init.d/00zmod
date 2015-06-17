@@ -1,0 +1,4 @@
+#!/system/bin/sh
+L="log -p i -t ZMoD"
+
+$L "Welcome to ZMoD"
